@@ -31,6 +31,7 @@ Follow these steps to set up and run the Whisper Video Subtitle Generator on you
 ```bash
 git clone https://github.com/your-username/whisper-video-subtitle-generator.git
 cd whisper-video-subtitle-generator
+```
 
 **Step 2: Create a Virtual Environment (Recommended)**
 
@@ -145,13 +146,4 @@ Contributions to this project are welcome! If you find a bug, have a suggestion,
 3. Make your modifications and commit them.
 4. Push your branch to your fork.
 5. Submit a pull request.
-
-## License
-
-[Specify the license under which this project is distributed. For example, MIT License, Apache 2.0, etc.]
-
-## Contact
-
-[Your Name/Organization]
-[Your Email Address or GitHub Profile Link]
 ```
